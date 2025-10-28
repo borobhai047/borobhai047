@@ -1,4 +1,9 @@
-# Hi, I'm Asfi! 👋  
+<!-- Typing animation GIF -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&width=600&lines=Hi,+I'm+Asfi!+👋;FullStack+Developer+%28JS,+MERN%29+|+Cybersecurity+Enthusiast" alt="Typing SVG"/>
+</p>
+
+# 🚀 About Me
 Cybersecurity Enthusiast | FullStack Developer (JS, MERN) | WebDev Programmer  
 
 ---
@@ -18,39 +23,50 @@ Cybersecurity Enthusiast | FullStack Developer (JS, MERN) | WebDev Programmer
 ---
 
 ## 🔭 Current Focus
-- FullStack development (HTML, CSS, JS, MERN, Tailwind) {Actively Learning!!!} 
-- Learning Cloudflare, AWS, CrowdStrike, ElasticStack  
+- Cloudflare, AWS, CrowdStrike, ElasticStack  
 - Bash scripting & automation  
+- FullStack development (JS, MERN, Tailwind)  
 - Ethical hacking & cybersecurity labs
 
 ---
 
-## 👨‍💻 Projects
-### FullStack & WebDev
-- **[HalalMeatChain DApp](https://github.com/asfi-ahmed/Halal-MeatChain-DApp-Using-Solidity-BlockChain-Project-)** – Solidity, Ganache, Metamask  
-- **[Point of Sale System](https://github.com/asfi-ahmed/Case-Study-Group_2)** – PHP, Laravel, SQL  
-- **[Fitness Training Center](https://github.com/asfi-ahmed/Final-Project-Group_2)** – PHP, Laravel, MySQL, Apache  
-- **[Coffee Shop Landing](https://github.com/asfi-ahmed/Coffee-landing-page)** – HTML, CSS  
-- **[Hoodie Shop Landing](https://github.com/asfi-ahmed/Hoodie-shop-landing-page)** – HTML, CSS  
+## 👨‍💻 Featured Projects
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
 
-### Cybersecurity
-- **[Home Lab AD Setup](https://github.com/asfi-ahmed/-Basic-Home-Lab-Running-Active-Directory-Oracle-VirtualBox-Add-Users-w-PowerShell)** – Active Directory, PowerShell, Networking
+[![HalalMeatChain](https://img.shields.io/badge/HalalMeatChain-DApp-blue?style=for-the-badge)](https://github.com/asfi-ahmed/Halal-MeatChain-DApp-Using-Solidity-BlockChain-Project-)  
+[![Point of Sale](https://img.shields.io/badge/Point_of_Sale-PHP-green?style=for-the-badge)](https://github.com/asfi-ahmed/Case-Study-Group_2)  
+[![Fitness Training](https://img.shields.io/badge/Fitness-Project-red?style=for-the-badge)](https://github.com/asfi-ahmed/Final-Project-Group_2)  
+[![Coffee Shop](https://img.shields.io/badge/Coffee-Shop-HTML-orange?style=for-the-badge)](https://github.com/asfi-ahmed/Coffee-landing-page)  
+[![Hoodie Shop](https://img.shields.io/badge/Hoodie-Shop-HTML-purple?style=for-the-badge)](https://github.com/asfi-ahmed/Hoodie-shop-landing-page)
 
-### Business & Tech Projects
-- **[Project Management in IT](https://github.com/asfi-ahmed/PMIT-Project-Management-in-IT-)** – IT project for IIUM lecturer  
-- **[Technopreneurship SwiftTech](https://github.com/asfi-ahmed/TECHNOPRENEURSHIP-Business-Case-Paper)** – Business case paper for multi-sided tech business  
+</div>
+
+---
+
+## 💻 Cybersecurity Labs
+- **[Home Lab AD Setup](https://github.com/asfi-ahmed/-Basic-Home-Lab-Running-Active-Directory-Oracle-VirtualBox-Add-Users-w-PowerShell)** – Active Directory, PowerShell, Networking  
+
+---
+
+## 📢 Blogs
+- [Mastering the Game: Proactive Cybersecurity Strategies 2023](https://bit.ly/3v290wY)  
+- [2023 Cyber Landscape: AI, Quantum, Data Risks](https://asfiuia18.wixsite.com/cybersec-talk-with-a/post/in-the-realm-of-cybersecurity-on-the-horizon-for-2023-we-re-eyeing-potential-risks-associated-with)  
 
 ---
 
 ## 📊 GitHub Stats
-![Asfi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asfi-ahmed&show_icons=true&theme=radical)  
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asfi-ahmed&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asfi-ahmed&layout=compact&theme=radical)
+
+</div>
 
 ---
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/asfi-ahmed/)  
-[![Gmail](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg)](mailto:asfiuia18@gmail.com)  
+[![Gmail](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg)](mailto:asfiuia18@gmail.com)
 
 ---
 
