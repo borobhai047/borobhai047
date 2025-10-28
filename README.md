@@ -1,6 +1,6 @@
 <!-- Typing animation GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&width=600&lines=Hi,+I'm+Asfi!+👋;FullStack+Developer+%28JS,+MERN%29+|+Cybersecurity+Enthusiast" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&width=600&lines=Hi,+I'm+Asfi!+👋;FullStack+Developer+%28JS,+MERN%29+|+Cybersecurity+Enthusiast" alt="Typing SVG"/>
 </p>
 
 # 🚀 About Me
