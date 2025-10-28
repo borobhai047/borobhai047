@@ -38,15 +38,15 @@ Cybersecurity Enthusiast | FullStack Developer (JS, MERN) | WebDev Programmer
 [![HalalMeatChain](https://img.shields.io/badge/HalalMeatChain-DApp-blue?style=for-the-badge)](https://github.com/borobhai047/Halal-MeatChain-DApp-Using-Solidity-BlockChain-Project-)  
 [![Point of Sale](https://img.shields.io/badge/Point_of_Sale-PHP-green?style=for-the-badge)](https://github.com/borobhai047/A-Point-of-Sale-System)  
 [![Fitness Training](https://img.shields.io/badge/Fitness-Project-red?style=for-the-badge)](https://github.com/asfi-ahmed/Final-Project-Group_2)  
-[![Coffee Shop](https://img.shields.io/badge/Coffee_Shop-HTML&CSS-orange?style=for-the-badge)](https://github.com/asfi-ahmed/Coffee-landing-page)  
-[![Hoodie Shop](https://img.shields.io/badge/Hoodie_Shop-HTML&CSS-purple?style=for-the-badge)](https://github.com/asfi-ahmed/Hoodie-shop-landing-page)
+[![Coffee Shop](https://img.shields.io/badge/Coffee_Shop-HTML&CSS-orange?style=for-the-badge)](https://github.com/borobhai047/Coffee-Landing-Page)  
+[![Hoodie Shop](https://img.shields.io/badge/Hoodie_Shop-HTML&CSS-purple?style=for-the-badge)](https://github.com/borobhai047/Hoodie-shop-landing-page-)
 
 </div>
 
 ---
 
 ## 💻 Cybersecurity Labs
-- **[Home Lab AD Setup](https://github.com/asfi-ahmed/-Basic-Home-Lab-Running-Active-Directory-Oracle-VirtualBox-Add-Users-w-PowerShell)** – Active Directory, PowerShell, Networking  
+- **[Home Lab AD Setup](https://github.com/borobhai047/-Basic-Home-Lab-Running-Active-Directory-Oracle-VirtualBox-Add-Users-w-PowerShell)** – Active Directory, PowerShell, Networking  
 
 ---
 
