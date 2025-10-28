@@ -1,6 +1,6 @@
 <!-- Typing animation GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&width=600&lines=Hi,+I'm+Asfi!+👋;FullStack+Developer+%28JS,+MERN%29+|+Cybersecurity+Enthusiast" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=500&color=00FF00&width=600&lines=Hi,+I'm+Asfi!+👋;FullStack+Developer+%28JS,+MERN%29;Cybersecurity+Enthusiast" alt="Typing SVG"/>
 </p>
 
 # 🚀 About Me
@@ -67,8 +67,18 @@ Cybersecurity Enthusiast | FullStack Developer (JS, MERN) | WebDev Programmer
 ---
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/asfi-ahmed/)  
-[![Gmail](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg)](mailto:asfiuia18@gmail.com)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/asfi-ahmed/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="28" height="28"/>
+  </a>
+  <a href="mailto:asfiuia18@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" width="28" height="28"/>
+  </a>
+  <a href="https://github.com/asfi-ahmed">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" width="28" height="28"/>
+  </a>
+</p>
 
 ---
 
