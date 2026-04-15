@@ -1,86 +1,157 @@
 <!-- Typing animation GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=500&color=00FF00&width=600&lines=Hi,+I'm+Asfi!+👋;FullStack+Developer+%28JS,+MERN%29;Cybersecurity+Enthusiast" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=600&color=00FFAA&width=800&lines=Hi,+I'm+Asfi+Ahmed+👋;Network+Engineer+in+Training+%7C+Cybersecurity+%7C+GRC+Focused;Building+Enterprise+IT+and+Security+Systems" alt="Typing SVG"/>
 </p>
 
-# 🚀 About Me
-Cybersecurity Enthusiast | FullStack Developer (JS, MERN) | WebDev Programmer  
+# 🛡️ About Me
+
+I am an IT graduate specializing in **Information Assurance and Security**, currently building a structured career path in:
+
+> 🌐 Network Engineering  
+> 🛡️ Cybersecurity (SOC + GRC Foundations)
+
+My focus is on understanding how real enterprise systems are designed, secured, and operated — from both a **network infrastructure** and **security governance** perspective.
+
+I am actively developing hands-on capability in enterprise-grade environments through structured portfolio projects that simulate real-world IT operations.
 
 ---
 
-## 🛠 Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=flat&logo=laravel&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+## 🎯 Core Skill Development Tracks
+
+### 🌐 Network Engineering Track (Primary Technical Focus)
+- Cisco CCNA-level networking concepts (routing, switching, subnetting)
+- VLAN design and inter-VLAN routing
+- ACL-based traffic filtering and segmentation
+- Network troubleshooting using Nmap and packet analysis
+- Enterprise LAN architecture and DMZ design concepts
+
+### 🛡️ Cybersecurity & GRC Track (Security Focus)
+- ISO/IEC 27001 risk assessment and control mapping
+- NIST Cybersecurity Framework (CSF) implementation
+- Vulnerability assessment and CVE analysis
+- Security hardening (SSH, port security, service control)
+- Business Continuity & Disaster Recovery (BCDR)
+
+### 🔄 Integration Goal
+Building a unified understanding of **how networks are built and how they are secured in real enterprise environments**.
 
 ---
 
-## 🔭 Current Focus
-- Cloudflare, AWS, CrowdStrike, ElasticStack  
-- Bash scripting & automation  
-- FullStack development (JS, MERN, Tailwind)  
-- Ethical hacking & cybersecurity labs
+## 🏢 Enterprise Lab Environment (ETP Simulation)
+
+All projects are part of a structured enterprise simulation:
+
+> **Endpoint Technologies PLC (ETP)** — A mid-sized IT services company
+
+This environment is used to simulate real-world IT infrastructure and cybersecurity operations.
 
 ---
 
+## 🧭 Learning Progression
 
+This portfolio follows a real enterprise security lifecycle:
 
-## 👨‍💻 Featured Projects
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+- **Project 1:** ISO 27001 Risk Assessment (Identify risks)
+- **Project 2:** NIST CSF Mapping (Align controls to frameworks)
+- **Project 3:** Secure Network Design (Implement infrastructure)
+- **Project 4:** Vulnerability Assessment (Detect weaknesses)
+- **Project 5:** BCDR Planning (Operational resilience)
 
-[![HalalMeatChain](https://img.shields.io/badge/HalalMeatChain-DApp-blue?style=for-the-badge)](https://github.com/borobhai047/Halal-MeatChain-DApp-Using-Solidity-BlockChain-Project-)  
-[![Point of Sale](https://img.shields.io/badge/Point_of_Sale-PHP-green?style=for-the-badge)](https://github.com/borobhai047/A-Point-of-Sale-System)  
-[![Fitness Training](https://img.shields.io/badge/Fitness-Project-red?style=for-the-badge)](https://github.com/asfi-ahmed/Final-Project-Group_2)  
-[![Coffee Shop](https://img.shields.io/badge/Coffee_Shop-HTML&CSS-orange?style=for-the-badge)](https://github.com/borobhai047/Coffee-Landing-Page)  
-[![Hoodie Shop](https://img.shields.io/badge/Hoodie_Shop-HTML&CSS-purple?style=for-the-badge)](https://github.com/borobhai047/Hoodie-shop-landing-page-)
-
-</div>
-
----
-
-## 💻 Cybersecurity Labs
-- **[Home Lab AD Setup](https://github.com/borobhai047/-Basic-Home-Lab-Running-Active-Directory-Oracle-VirtualBox-Add-Users-w-PowerShell)** – Active Directory, PowerShell, Networking  
+Each project builds on the previous one to simulate a complete enterprise IT security program.
 
 ---
 
-## 📢 Blogs
-- [Mastering the Game: Proactive Cybersecurity Strategies 2023](https://bit.ly/3v290wY)  
-- [2023 Cyber Landscape: AI, Quantum, Data Risks](https://asfiuia18.wixsite.com/cybersec-talk-with-a/post/in-the-realm-of-cybersecurity-on-the-horizon-for-2023-we-re-eyeing-potential-risks-associated-with)  
+## 🏗️ Enterprise Security Case Studies
+
+### 🔐 Project 1 — ISO 27001 Risk Assessment
+📌 Identified enterprise risks and built structured risk register  
+📌 Mapped risks to ISO/IEC 27001 framework  
+
+---
+
+### 📊 Project 2 — NIST CSF Mapping & Maturity Model
+📌 Mapped security controls to NIST CSF  
+📌 Performed maturity assessment and gap analysis  
+
+---
+
+### 🌐 Project 3 — Secure Enterprise Network Design
+📌 Designed VLAN-based segmented network  
+📌 Implemented ACLs, SSH security, and DMZ architecture  
+
+---
+
+### 🔍 Project 4 — Vulnerability Assessment & CVE Mapping
+📌 Performed Nmap service enumeration  
+📌 Identified exposed services and mapped CVEs  
+📌 Connected vulnerabilities to enterprise risk register  
+
+---
+
+### 🛡️ Project 5 — Business Continuity & Disaster Recovery (BCDR)
+📌 Designed recovery plans with RTO/RPO models  
+📌 Created incident response and backup strategies  
+
+---
+
+## 🧰 Tools & Technologies
+
+### Networking & Infrastructure
+- Cisco Packet Tracer concepts
+- Nmap (Network scanning & service detection)
+- Packet analysis (Wireshark fundamentals)
+
+### Cybersecurity & GRC
+- ISO/IEC 27001 framework
+- NIST Cybersecurity Framework (CSF)
+- CVE database analysis
+- Risk management methodologies
+
+### Security Operations Concepts
+- Vulnerability assessment workflows
+- Network segmentation and defense design
+- Incident response and recovery planning
+
+---
+
+## 📌 What This Portfolio Represents
+
+This is not a collection of random projects.
+
+It represents a **complete enterprise IT and cybersecurity simulation**, combining:
+
+- Network Engineering fundamentals
+- Cybersecurity defense thinking
+- Risk and compliance frameworks
+- Operational resilience planning
+
+Together, they demonstrate how enterprise systems are:
+
+> Built → Secured → Tested → Managed → Recovered
 
 ---
 
 ## 📊 GitHub Stats
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asfi-ahmed&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asfi-ahmed&layout=compact&theme=radical)
-
-</div>
-
----
-
-## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/asfi-ahmed/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="28" height="28"/>
-  </a>
-  <a href="mailto:asfiuia18@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" width="28" height="28"/>
-  </a>
-  <a href="https://github.com/asfi-ahmed">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" width="28" height="28"/>
-  </a>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asfi-ahmed&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asfi-ahmed&layout=compact&theme=radical)
+
 </p>
 
 ---
 
-### ⚡ Fun Fact
-Persistence can be exhausting 😴 — but I keep coding anyway.
+## 🤝 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/asfi-ahmed/  
+- Email: asfiuia18@gmail.com  
+- GitHub: https://github.com/asfi-ahmed  
+
+---
+
+## ⚡ Final Note
+
+I am actively building expertise in **enterprise networking and cybersecurity**, with a focus on real-world infrastructure design, security implementation, and risk-based thinking.
+
+My goal is to become a **Network & Security Engineer** capable of understanding both infrastructure and security as a unified discipline.
